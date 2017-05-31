@@ -2,6 +2,8 @@
 
 Solves the biz constraint puzzle
 
+Each row and column must have a specific number of set fields.
+
 # Usage
 
 ```bash
