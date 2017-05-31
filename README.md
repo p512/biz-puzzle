@@ -7,7 +7,7 @@ Each row and column must have a specific number of set fields.
 # Usage
 
 ```bash
-$ clingo first.lp biz.lp| ./visualizer.py 
+$ clingo first.lp biz.lp | ./visualizer.py 
   ██ █  
   █  █  
   ██ █  
